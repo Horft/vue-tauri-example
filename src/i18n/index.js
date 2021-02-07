@@ -5,7 +5,7 @@ Vue.use(VueI18n);
 
 const messages = {
     enUS: {
-        welcomeMessage: "Welcome to Your Tauri App"
+        welcomeMessage: "Welcome to Your Tauri App "
     },
 }
 

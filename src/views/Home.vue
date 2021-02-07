@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    TEST
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld :msg="$t('welcomeMessage')" />
   </div>
